@@ -27,3 +27,4 @@ Eu sou o Allan e esse foi o Cadê Meu Fundo? dessa semana. Até a próxima!
 
 - Audio gerado pela elevenLabs
 
+https://github.com/hudallan/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20-%20Cade%20Meu%20Fundo.mp3
